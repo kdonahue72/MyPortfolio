@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global setup */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+  color: #bebebe;
+  position: relative;
+  z-index: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+:root {
+  scroll-padding-top: 100px;
+}
+
+
+/* Body holds a smooth 2-color gradient */
+body {
+  background: linear-gradient(135deg, #03000e, #03000e);
+  position: relative;
+  z-index: 0;
+}
+
+/* Cursor spotlight effect */
+body {
+  position: relative;
+  z-index: 0; /* ensure text stays above the spotlight */
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1;
+ background: radial-gradient(
+  400px circle at var(--cursorX, 50%) var(--cursorY, 50%),
+  rgba(93, 85, 204, 0.041) 0%,
+  transparent 60%
+);
+
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  transition: background-position 0.05s ease;
+}
+
+
+
+
