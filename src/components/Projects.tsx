@@ -27,7 +27,7 @@ const projects = [
 ,
   },
   {
-    name: 'Dr. Kyle Donahue\'s Blog',
+    name: 'DPT Kyle Donahue\'s Blog',
     description: 'This blog explores the gaps in Western medical practice, overlooked conditions, and the patient experience. I write from the perspective of a clinician turned health and tech strategist, focused on how tech and AI can solve what healthcare often misses.',
     image: '/portsite.png', // update with your actual path
     href: '', // Not clickable

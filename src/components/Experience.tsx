@@ -13,9 +13,9 @@ export default function Experience() {
           className="group/card block rounded-lg border border-transparent hover:text-purple-400 hover:bg-slate-900/40 p-6 transition group-hover:opacity-50 hover:!opacity-100"
         >
           <p className="text-white font-medium group-hover/card:text-purple-400 transition">
-            Account Manager – Logistyx Technologies
+            Project Manager – Logistyx Technologies
           </p>
-          <p className="text-sm text-slate-400 mb-2">Aug 2021 – Aug 2022 / Hybrid (St. Louis)</p>
+          <p className="text-sm text-slate-400 mb-2">Aug 2021 – Jan 2024 / Hybrid (St. Louis)</p>
           <ul className="list-disc list-inside text-slate-300 space-y-1">
             <li>Managed multiple client accounts, driving a 20% increase in customer retention through proactive support.</li>
             <li>Led cross-functional coordination to streamline project workflows, reducing onboarding time by 25%.</li>
@@ -31,9 +31,9 @@ export default function Experience() {
           className="group/card block rounded-lg border border-transparent hover:text-purple-400 hover:bg-slate-900/40 p-6 transition group-hover:opacity-50 hover:!opacity-100"
         >
           <p className="text-white font-medium group-hover/card:text-purple-400 transition">
-            Assistant Project Manager – Logistyx Technologies 
+           Intern Project Manager – Logistyx Technologies 
           </p>
-          <p className="text-sm text-slate-400 mb-2">May 2020 - Aug 2021 / Remote</p>
+          <p className="text-sm text-slate-400 mb-2">May 2018 - May 2020 / Remote</p>
           <ul className="list-disc list-inside text-slate-300 space-y-1">
             <li>Supported client account management and multi-project coordination, improving retention by 15%.</li>
             <li>Streamlined onboarding and vendor workflows, cutting onboarding time by 20%.</li>
@@ -49,9 +49,9 @@ export default function Experience() {
           className="group/card block rounded-lg border border-transparent hover:text-purple-400 hover:bg-slate-900/40 p-6 transition group-hover:opacity-50 hover:!opacity-100"
         >
           <p className="text-white font-medium group-hover/card:text-purple-400 transition">
-            Marketing Assistant – Mittler Bros. / NASCAR Division
+            Project Manager – Mittler Brothers Machine & Tool
           </p>
-          <p className="text-sm text-slate-400 mb-2">May 2018 – May 2020 / St. Louis</p>
+          <p className="text-sm text-slate-400 mb-2">June 2020 – July 2021 / St. Louis</p>
           <ul className="list-disc list-inside text-slate-300 space-y-1">
             <li>Drove a 25% revenue increase via targeted sponsor outreach and marketing campaigns.</li>
             <li>Coordinated race-day sponsor activations and produced marketing materials that enhanced visibility by 20%.</li>
@@ -67,9 +67,9 @@ export default function Experience() {
           className="group/card block rounded-lg border border-transparent hover:text-purple-400 hover:bg-slate-900/40 p-6 transition group-hover:opacity-50 hover:!opacity-100"
         >
           <p className="text-white font-medium group-hover/card:text-purple-400 transition">
-            Physical Therapist – PGY 1–3 Physio Rotations I–VI
+            Physio Rotations I–VI
           </p>
-          <p className="text-sm text-slate-400 mb-2">May 2022 – Jan 2025 / Midwest</p>
+          <p className="text-sm text-slate-400 mb-2">May 2024 – April 2025 / Midwest</p>
           <ul className="list-disc list-inside text-slate-300 space-y-1">
             <li>Delivered personalized care and coordinated treatment plans across interdisciplinary teams.</li>
             <li>Maintained strong patient relationships and evidence-based practices to enhance outcomes.</li>
@@ -83,15 +83,15 @@ export default function Experience() {
         <ul className="text-slate-300 space-y-1">
           <li>
             🎓 <a href="https://missouristate.edu" target="_blank" rel="noreferrer" className="hover:text-purple-400 transition">
-              Doctor of Physical Therapy — Missouri State University, Springfield (2022–2025)
+              Doctor of Physical Therapy — Missouri State University, Springfield (2023–2025)
             </a>
           </li>
           <li>
             🎓 <a href="https://maryville.edu" target="_blank" rel="noreferrer" className="hover:text-purple-400 transition">
-              B.S. in Business Administration — Maryville University, St. Louis (2018–2022)
+              B.S. in Information Technology — Maryville University, St. Louis (2016–2020)
             </a>
           </li>
-          <li>📜 PMP Certification — 2024–2025 (Pending Approval)</li>
+          <li>📜 PMP Certification — 2024–2025</li>
         </ul>
       </div>
 <div className="md:px-6 pt-14 pb-0">
